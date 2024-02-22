@@ -1,6 +1,6 @@
-# Projeto HTML com CSS Simples
+# Projeto HTML com CSS
 
-Este é um projeto simples criado em HTML e CSS como parte de um curso para praticar alguns conceitos básicos.
+Este é um projeto criado em HTML e CSS como parte de um curso para praticar alguns conceitos básicos.
 
 ## Sobre o Projeto
 
@@ -20,7 +20,7 @@ O projeto possui a seguinte estrutura:
 
 ## Contribuição
 
-Este é um projeto simples criado para fins educacionais. Não há necessidade de contribuir.
+Este é um projeto criado para fins educacionais. Não há necessidade de contribuir.
 
 ## Contato
 
